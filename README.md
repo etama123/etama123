@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=Dongjoo%20SEO&fontSize=85)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Dongjoo%20SEO&fontSize=50)
 
 :pencil: studying :pencil:
 
