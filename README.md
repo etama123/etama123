@@ -4,10 +4,10 @@
 ### I am a student studying to become a challenged developer👩‍💻
 
 I love music🎶 and iced vanilla latte🥤<br>
-I hope to develop *witty services* in our lives💗<br>
+I hope to develop *witty services* in our lives💗
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongjooSEO&&layout=compact)](https://github.com/DongjooSEO/github-readme-stats)
-
----Cancel changes
+---
 📝 **STUDYING**📝<br>
 **Platforms & Languages**<br>
 <p align = "left">
