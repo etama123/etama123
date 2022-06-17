@@ -4,9 +4,10 @@
 ### I am a student studying to become a challenged developer👩‍💻
 
 I love music🎶 and iced vanilla latte🥤<br>
-I hope to develop *witty services* in our lives💗
+I hope to develop *witty services* in our lives💗<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongjooSEO&&layout=compact)](https://github.com/DongjooSEO/github-readme-stats)
 
----
+---Cancel changes
 📝 **STUDYING**📝<br>
 **Platforms & Languages**<br>
 <p align = "left">
@@ -23,4 +24,3 @@ I hope to develop *witty services* in our lives💗
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion#&logoColor=white"/></a>
 </p>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongjooSEO&&layout=compact)](https://github.com/DongjooSEO/github-readme-stats)
