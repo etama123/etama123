@@ -5,8 +5,7 @@
 
 I love music🎶 and iced vanilla latte🥤<br>
 I hope to develop *witty services* in our lives💗
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongjooSEO&&layout=compact)](https://github.com/DongjooSEO/github-readme-stats)
+<br>
 ---
 📝 **STUDYING**📝<br>
 **Platforms & Languages**<br>
