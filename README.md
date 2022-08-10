@@ -3,8 +3,12 @@
 ### Hi there👋
 ### I am a student studying to become a challenged developer👩‍💻
 
-I love music🎶 and iced vanilla latte🥤<br>
 I hope to develop *witty services* in our lives💗
+
+**Likes**
+- music🎶
+- iced vanilla latte🥤
+<br>
 <br>
 
 ---
