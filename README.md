@@ -4,6 +4,7 @@
 |     /\      / |\  \  {_ }| {} \      /\      /   .-._} } {__\      /
 `----'  `----'`-' `-'`---' `----'`----'  `----'    `----'`----'`----' 
 ```
+TO BE a logical, exploratory, and lovely developer🤍
 
 **ꕤ ACTIVITY ꕤ**
 - 2nd UMC Gachon Android Part (22.03-22.08)
