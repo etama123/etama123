@@ -4,33 +4,19 @@
 |     /\      / |\  \  {_ }| {} \      /\      /   .-._} } {__\      /
 `----'  `----'`-' `-'`---' `----'`----'  `----'    `----'`----'`----' 
 ```
-ꕤꕤ
-**Likes**
-- music🎶
-- iced vanilla latte🥤
-<br>
-<br>
 
----
-📝 **STUDYING**📝<br>
-**Platforms & Languages**<br>
-<p align = "left">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3#&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git#&logoColor=white"/></a>
+**ꕤ ACTIVITY ꕤ**
+- 2nd UMC Gachon Android Part (22.03-22.08)
+- 9th UNITHON Operator (22.08-22.09)
+- 31st SOPT Android Part (22.09-23.01)
 
-<br>**Tools**<br>
+**ꕤ PROJECT ꕤ**
+- Android Development | Keyneez (22.12~)
 
-<img src="https://img.shields.io/badge/GitHib-181717?style=flat-square&logo=GitHub#&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion#&logoColor=white"/></a>
-</p>
-<br>
+**ꕤ TECH & TOOLS ꕤ**
 
-![tama's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjooSEO&show_icons=true&theme=radical)
+<img src="https://img.shields.io/badge/Andoird-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjooSEO&layout=compact)](https://github.com/dongjooSEO/github-readme-stats)
