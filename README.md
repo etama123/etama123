@@ -29,6 +29,8 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion#&logoColor=white"/></a>
 </p>
 <br>
+
 ![tama's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjooSEO&show_icons=true&theme=radical)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjooSEO&layout=compact)](https://github.com/dongjooSEO/github-readme-stats)
