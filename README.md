@@ -10,6 +10,7 @@ TO BE a logical, exploratory, and lovely developer🤍
 - 2nd UMC Gachon Android Part (22.03-22.08)
 - 9th UNITHON Operator (22.08-22.09)
 - 31st SOPT Android Part (22.09-23.01)
+- Google Developer Student Clubs Gachon 23-24 Lead
 
 
 **ꕤ PROJECT ꕤ**
