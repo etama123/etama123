@@ -11,7 +11,7 @@ TO BE a logical, exploratory, and lovely developer🤍
 
 **ꕤ PROJECT ꕤ**
 - PM | Earth Around (22.06-22.08)
-- Android Development | Keyneez (22.12~)
+- Android Development | Keyneez (22.12~23.02)
 
 
 **ꕤ TECH & TOOLS ꕤ**
