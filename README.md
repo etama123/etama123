@@ -5,14 +5,14 @@ TO BE a logical, exploratory, and lovely developer🤍
 - 9th UNITHON Operator (22.08-22.09)
 - 31st SOPT Android Part (22.09-23.01)
 - Google Developer Student Clubs Gachon 23-24 Lead (23.07-24.07)
-- GDG on Campus Gachon 24-25 Core Member (24.08- )
+- GDG on Campus Gachon 24-25 Core Member (24.08-25.07)
 - woowacourse 7th Android (25.02- )
 
 
 **ꕤ PROJECT ꕤ**
-- PM | Earth Around (22.06-22.08)
-- Android Development | Keyneez (22.12~23.02)
-
+- PM | Earth Around (22.06 ~ 22.08)
+- Android | Keyneez (22.12 ~ 23.02)
+- Android | Festabook (25.07 ~ )
 
 **ꕤ TECH & TOOLS ꕤ**
 
