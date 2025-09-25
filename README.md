@@ -12,7 +12,7 @@ TO BE a logical, exploratory, and lovely developer🤍
 **ꕤ PROJECT ꕤ**
 - PM | Earth Around (22.06 ~ 22.08)
 - Android | Keyneez (22.12 ~ 23.02)
-- Android | Festabook (25.07 ~ )
+- Android | festabook (25.07 ~ )
 
 **ꕤ TECH & TOOLS ꕤ**
 
