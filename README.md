@@ -6,7 +6,7 @@ TO BE a logical, exploratory, and lovely developer🤍
 - 31st SOPT Android Part (22.09-23.01)
 - Google Developer Student Clubs Gachon 23-24 Lead (23.07-24.07)
 - GDG on Campus Gachon 24-25 Core Member (24.08-25.07)
-- woowacourse 7th Android (25.02- )
+- woowacourse 7th Android (25.02-25.11)
 
 
 **ꕤ PROJECT ꕤ**
